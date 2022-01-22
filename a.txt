@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 2 - master
 22 master
+=======
+1
+new feature
+
